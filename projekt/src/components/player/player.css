@@ -1,0 +1,38 @@
+.dane {
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+  height: 150px;
+  margin-top: -350px;
+  margin-bottom: 300px;
+}
+h2 {
+  line-height: 80px;
+}
+.wpisz {
+  margin-bottom: 600px;
+}
+.zawodnik_zdj {
+  width: 300px;
+  height: 300px;
+}
+.dane_zaw {
+  height: 450px;
+}
+.dane_ramka {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dane_zaw2 {
+  width: 800px;
+  display: flex;
+  justify-content: space-around;
+  height: 100%;
+}
+.info {
+  margin-top: 150px;
+}

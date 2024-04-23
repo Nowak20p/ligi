@@ -1,0 +1,29 @@
+.opis1 {
+  background-color: #3f85e0;
+  color: #fff;
+  font-size: larger;
+  width: 60%;
+  height: 250px;
+  overflow: hidden;
+  margin: 20px;
+  padding: 30px;
+}
+.yamal {
+  position: relative;
+  height: 100%;
+  margin-left: 100px;
+}
+.tlo1 {
+  background-color: #3f85e0;
+  height: 380px;
+  margin-bottom: -320px;
+}
+.kontener {
+  margin-left: 65%;
+  height: 300px;
+  margin-bottom: 100px;
+}
+.kontener2 {
+  width: 1400px;
+  margin-left: 35%;
+}

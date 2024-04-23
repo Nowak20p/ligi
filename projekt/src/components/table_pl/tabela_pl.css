@@ -1,0 +1,50 @@
+table {
+  width: 95%;
+  margin: 5px;
+}
+.border {
+  border-width: 2px !important;
+}
+
+tbody tr:first-child {
+  border-left: 1rem solid #4285f4;
+}
+tbody tr:nth-child(2) {
+  border-left: 1rem solid #4285f4;
+}
+tbody tr:nth-child(3) {
+  border-left: 1rem solid #4285f4;
+}
+tbody tr:nth-child(4) {
+  border-left: 1rem solid #4285f4;
+}
+tbody tr:nth-child(5) {
+  border-left: 1rem solid #fa7b17;
+}
+.ligi tr:nth-child(6) {
+  border-left: 0 !important;
+}
+
+tbody tr:nth-child(18) {
+  border-left: 1rem solid #ea4335;
+}
+tbody tr:nth-child(19) {
+  border-left: 1rem solid #ea4335;
+}
+tbody tr:nth-child(20) {
+  border-left: 1rem solid #ea4335;
+}
+
+th {
+  font-size: larger;
+}
+.naglowek_liga {
+  display: flex;
+  justify-content: center;
+  height: 126px;
+  margin-bottom: 20px;
+}
+.naglowek2_liga {
+  line-height: 126px;
+  margin-right: 50px;
+}

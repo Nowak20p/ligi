@@ -1,0 +1,44 @@
+tbody tr:nth-child(6) {
+  border-left: 1rem solid #34a853;
+}
+.naglowek_laliga {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  margin-bottom: 20px;
+}
+.naglowek2_laliga {
+  line-height: 200px;
+  margin-right: 50px;
+}
+.liga_kolor1 {
+  width: 30px;
+  height: 30px;
+  background-color: #4285f4;
+  margin-left: 40px;
+}
+.liga_kolor2 {
+  width: 30px;
+  height: 30px;
+  background-color: #fa7b17;
+}
+.liga_kolor3 {
+  width: 30px;
+  height: 30px;
+  background-color: #34a853;
+}
+.liga_kolor4 {
+  width: 30px;
+  height: 30px;
+  background-color: #ea4335;
+  margin-top: ;
+}
+.legenda {
+  display: flex;
+  width: 100%;
+  text-align: center;
+  margin-right: 20px;
+}
+.legenda > div {
+  margin-right: 20px;
+}

@@ -1,0 +1,35 @@
+body {
+  background-color: #a5c8de;
+}
+nav {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+li {
+  width: 200px;
+  height: auto;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: 120px;
+  line-height: 120px;
+  font-size: 20px;
+  background-color: #3f85e0;
+  margin-bottom: 100px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.logo {
+  margin-right: 10px;
+  height: 100px;
+}
